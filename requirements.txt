@@ -8,6 +8,8 @@ uvicorn==0.30.1
 chromadb==0.5.3
 rich==13.7.1
 scrapy==2.11.2
+beautifulsoup4==4.12.3
+lxml==5.2.2
 zstandard==0.22.0
 tqdm==4.66.4
 numpy==1.26.4
