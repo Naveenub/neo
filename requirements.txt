@@ -1,5 +1,5 @@
-torch==2.3.0+cu121
-sentencepiece==0.2.0
+torch==2.13.0
+sentencepiece==0.2.1
 accelerate==0.31.0
 bitsandbytes==0.43.3
 flash-attn==2.5.9.post1
@@ -12,4 +12,4 @@ zstandard==0.22.0
 tqdm==4.66.4
 numpy==1.26.4
 wikiextractor==3.0.6
-pytest==8.2.2
+pytest==9.0.3
